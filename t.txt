@@ -1,0 +1,8 @@
+irb -r ./impossible_programs.rb impossible_programs/irb.txt > impossible_programs/irb.log &
+irb -r ./just_add_power.rb just_add_power/irb.txt > just_add_power/irb.log &
+irb -r ./programming_in_toyland.rb programming_in_toyland/irb.txt > programming_in_toyland/irb.log &
+irb -r ./programming_with_nothing.rb programming_with_nothing/irb.txt  >programming_with_nothing/irb.log &
+irb -r ./the_meaning_of_programs.rb the_meaning_of_programs/irb.txt  >the_meaning_of_programs/irb.log &
+irb -r ./the_simplest_computers.rb the_simplest_computers/irb.txt  >the_simplest_computers/irb.log &
+irb -r ./the_ultimate_machine.rb the_ultimate_machine/irb.txt  >the_ultimate_machine/irb.log &
+irb -r ./universality_is_everywhere.rb universality_is_everywhere/irb.txt  >universality_is_everywhere/irb.log &
