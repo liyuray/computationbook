@@ -1,3 +1,4 @@
+require_relative 'the_simplest_computers/finite_automata'
 require_relative 'just_add_power/dpda'
 require_relative 'just_add_power/dpda_design'
 require_relative 'just_add_power/dpda_rulebook'
